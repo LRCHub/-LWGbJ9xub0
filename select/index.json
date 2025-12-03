@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "love your life",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:44:49.041067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/01_Love_Your_Life_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Gugun Power Trio",
+      "has_synced": true,
+      "path": "select/02_Love_Your_Life_Gugun_Power_Trio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "豊崎 愛生",
+      "has_synced": true,
+      "path": "select/03_Love_Your_Life_豊崎_愛生.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "love your life",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/04_love_your_life_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Klaas",
+      "has_synced": true,
+      "path": "select/05_Love_Your_Life_Klaas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Ed Solo & Skool of Thought",
+      "has_synced": false,
+      "path": "select/06_Love_Your_Life_Ed_Solo_&_Skool_of_Thought.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Ed Solo",
+      "has_synced": false,
+      "path": "select/07_Love_Your_Life_Ed_Solo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Klaas",
+      "has_synced": true,
+      "path": "select/08_Love_Your_Life_Klaas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "love your life",
+      "artist": "Aki Toyosaki",
+      "has_synced": false,
+      "path": "select/09_love_your_life_Aki_Toyosaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Man",
+      "has_synced": false,
+      "path": "select/10_Love_Your_Life_Man.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Your Life",
+      "artist": "Gugun Blues Shelter",
+      "has_synced": true,
+      "path": "select/11_Love_Your_Life_Gugun_Blues_Shelter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "love your life",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_love_your_life_豊崎_愛生.txt"
+    }
+  ]
+}
